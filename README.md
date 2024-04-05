@@ -23,3 +23,8 @@ Quantidade total de funcionários;
 Salário total dos funcionários;
 
 Localidade dos funcionários;
+
+![media](https://github.com/FerreiraGabrielw/DashboardFuncionarios/assets/165827836/11da104a-cf5a-4fe0-903d-1d9b9b2c8ade)
+![media](https://github.com/FerreiraGabrielw/DashboardFuncionarios/assets/165827836/1dc1d3fd-4b8b-46a4-807e-2905a11df813)
+![media](https://github.com/FerreiraGabrielw/DashboardFuncionarios/assets/165827836/fa715188-6734-4257-8160-12be863cd6ff)
+![media](https://github.com/FerreiraGabrielw/DashboardFuncionarios/assets/165827836/c87e7a09-802e-484b-80c5-1c2d9bb920f1)
